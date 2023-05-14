@@ -1,0 +1,33 @@
+/* Field */
+.input-field {
+    display: block;
+    margin-bottom: 10px;
+}
+/* Input */
+.input-field > input {
+    display: block;
+    width: 100%;
+}
+/* Asterisk */
+.input-field > .asterisk {
+    margin-right: 5px;
+    display: none;
+}
+/* Field Required */
+.input-field.required > .asterisk {
+    display: inline;
+}
+/* Field Errored */
+.input-field.error {
+    color: red;
+}
+.input-field.error > input {
+    border-color: red;
+}
+.input-field > .error {
+    display: none;
+}
+.input-field.error > .error {
+    color: red;
+    display: block;
+}
