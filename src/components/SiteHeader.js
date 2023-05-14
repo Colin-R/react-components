@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import "../assets/site-header.css"
+import "./assets/site-header.css"
 
 class SiteHeader extends Component {
   render() {

@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 import InputField from './InputField';
 import SubmitButton from './SubmitButton';
 
-import "../assets/form-box.css"
+import "./assets/form-box.css"
 
 class FormBox extends Component {
   constructor(props) {

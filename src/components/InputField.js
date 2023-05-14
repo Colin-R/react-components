@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import "../assets/input-field.css"
+import "./assets/input-field.css"
 
 class InputField extends Component {
   fieldRequired() {

@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 import Button from './LinkButton';
 import SubTitle from './SubTitle';
 
-import "../assets/choice-box.css"
+import "./assets/choice-box.css"
 
 class ChoiceBox extends Component {
   render() {
