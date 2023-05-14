@@ -1,0 +1,36 @@
+{
+  "name": "colin-r-react-components",
+  "version": "0.0.1",
+  "description": "A collection of reusable React components",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Colin-R/colin-r-react-components.git"
+  },
+  "author": "Colin Ross",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Colin-R/colin-r-react-components/issues"
+  },
+  "homepage": "https://github.com/Colin-R/colin-r-react-components#readme",
+  "peerDependencies": {
+    "react": ">=18.2.0",
+    "react-dom": ">=18.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.21.4",
+    "@babel/preset-react": "^7.18.6",
+    "babel-loader": "^9.1.2",
+    "copy-webpack-plugin": "^11.0.0",
+    "css-loader": "^6.7.3",
+    "html-webpack-plugin": "^5.5.1",
+    "style-loader": "^3.3.2",
+    "webpack-cli": "^5.0.2",
+    "webpack-dev-server": "^4.13.3",
+    "webpack": "^5.80.0"
+  }
+}
