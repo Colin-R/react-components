@@ -1,33 +1,12 @@
-import ErrorPage from "./pages/ErrorPage";
-import LinkBackPage from "./pages/LinkBackPage";
-import NotFoundPage from "./pages/NotFoundPage";
-import RootPage from "./pages/RootPage";
+import React from 'react';
+import { render } from "react-dom";
+import { Title } from "./lib";
 
-import ChoiceBox from "./components/ChoiceBox";
-import FormBox from "./components/FormBox";
-import InputField from "./components/InputField";
-import LinkButton from "./components/LinkButton";
-import SiteHeader from "./components/SiteHeader";
-import SubmitButton from "./components/SubmitButton";
-import SubTitle from "./components/SubTitle";
-import Title from "./components/Title";
+const App = () => (
+  <div style={{ width: 640, margin: "15px auto" }}>
+    <h1>Hello React</h1>
+    <Title title="This is a test title" />
+  </div>
+);
 
-function colinRReactComponents() {
-    return "hello colin-r-react-components";
-}
-
-export {
-    ErrorPage,
-    LinkBackPage,
-    NotFoundPage,
-    RootPage,
-    ChoiceBox,
-    FormBox,
-    InputField,
-    LinkButton,
-    SiteHeader,
-    SubmitButton,
-    SubTitle,
-    Title,
-    colinRReactComponents,
-};
+render(<App />, document.getElementById("root"));
