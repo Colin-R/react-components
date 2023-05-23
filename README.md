@@ -1,2 +1,2 @@
-# @Colin-R/react-components
+# @colin-r/react-components
 A collection of reusable React components

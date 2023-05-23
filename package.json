@@ -2,7 +2,7 @@
   "workspaces": [
     "src/*"
   ],
-  "name": "@Colin-R/react-components",
+  "name": "@colin-r/react-components",
   "version": "0.1.0",
   "description": "A collection of reusable React components created by Colin Ross",
   "main": "dist/index.js",
