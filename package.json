@@ -3,7 +3,7 @@
   "workspaces": [
     "src/*"
   ],
-  "name": "colin-r-react-components",
+  "name": "@Colin-R/react-components",
   "version": "0.0.1",
   "description": "A collection of reusable React components created by Colin Ross",
   "main": "dist/index.js",
@@ -18,14 +18,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Colin-R/colin-r-react-components.git"
+    "url": "git+https://github.com/Colin-R/react-components.git"
   },
   "author": "Colin Ross",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Colin-R/colin-r-react-components/issues"
+    "url": "https://github.com/Colin-R/react-components/issues"
   },
-  "homepage": "https://github.com/Colin-R/colin-r-react-components#readme",
+  "homepage": "https://github.com/Colin-R/react-components#readme",
   "peerDependencies": {
     "react": ">=18.2.0",
     "react-dom": ">=18.2.0",
