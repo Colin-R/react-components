@@ -1,0 +1,11 @@
+/* Site Header */
+.site-header {
+    height: 64px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid black;
+}
+/* Site Header Title */
+.site-header > h1 {
+    display: inline-block;
+    margin: 14px;
+}

@@ -1,0 +1,13 @@
+/* Form Box */
+.form-box {
+    margin: auto;
+}
+/* Form */
+.form-box > form {
+    margin: auto;
+    text-align: left;
+}
+/* Submit Button */
+.form-box > form > .submit-button {
+    margin: 0px;
+}
