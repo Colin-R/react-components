@@ -4,7 +4,7 @@
     "src/*"
   ],
   "name": "@colin-r/react-components",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A collection of reusable React components created by Colin Ross",
   "main": "dist/index.js",
   "module": "dist/index.js",
