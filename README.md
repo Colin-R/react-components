@@ -35,6 +35,7 @@ No props...
 |Prop Name|Required|
 |---|---|
 |title|Yes|
+|classes|No|
 
 ### 📃 SubTitle
 
