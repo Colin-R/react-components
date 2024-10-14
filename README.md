@@ -88,3 +88,21 @@ It's **more** complicated...
 |Prop Name|Required|
 |---|---|
 |title|Yes|
+
+## Setup for Local Development
+
+Install local dependencies:
+```
+npm install
+```
+
+To view development changes in from a separate project:
+```
+npm link ../react-components
+```
+> *Requires the separate project's server to reload to view changes.*
+
+Publish a new version to npm:
+```
+TODO:
+```
