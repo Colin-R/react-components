@@ -6,7 +6,7 @@ Object.defineProperty(exports, "__esModule", {
 exports.default = ErrorPage;
 var _reactRouterDom = require("react-router-dom");
 function ErrorPage() {
-  var error = (0, _reactRouterDom.useRouteError)();
+  const error = (0, _reactRouterDom.useRouteError)();
   console.error(error);
   return /*#__PURE__*/React.createElement("div", {
     id: "error-page"

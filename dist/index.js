@@ -5,73 +5,73 @@ Object.defineProperty(exports, "__esModule", {
 });
 Object.defineProperty(exports, "ChoiceBox", {
   enumerable: true,
-  get: function get() {
+  get: function () {
     return _ChoiceBox.default;
   }
 });
 Object.defineProperty(exports, "ErrorPage", {
   enumerable: true,
-  get: function get() {
+  get: function () {
     return _ErrorPage.default;
   }
 });
 Object.defineProperty(exports, "FormBox", {
   enumerable: true,
-  get: function get() {
+  get: function () {
     return _FormBox.default;
   }
 });
 Object.defineProperty(exports, "InputField", {
   enumerable: true,
-  get: function get() {
+  get: function () {
     return _InputField.default;
   }
 });
 Object.defineProperty(exports, "LinkBackPage", {
   enumerable: true,
-  get: function get() {
+  get: function () {
     return _LinkBackPage.default;
   }
 });
 Object.defineProperty(exports, "LinkButton", {
   enumerable: true,
-  get: function get() {
+  get: function () {
     return _LinkButton.default;
   }
 });
 Object.defineProperty(exports, "NotFoundPage", {
   enumerable: true,
-  get: function get() {
+  get: function () {
     return _NotFoundPage.default;
   }
 });
 Object.defineProperty(exports, "RootPage", {
   enumerable: true,
-  get: function get() {
+  get: function () {
     return _RootPage.default;
   }
 });
 Object.defineProperty(exports, "SiteHeader", {
   enumerable: true,
-  get: function get() {
+  get: function () {
     return _SiteHeader.default;
   }
 });
 Object.defineProperty(exports, "SubTitle", {
   enumerable: true,
-  get: function get() {
+  get: function () {
     return _SubTitle.default;
   }
 });
 Object.defineProperty(exports, "SubmitButton", {
   enumerable: true,
-  get: function get() {
+  get: function () {
     return _SubmitButton.default;
   }
 });
 Object.defineProperty(exports, "Title", {
   enumerable: true,
-  get: function get() {
+  get: function () {
     return _Title.default;
   }
 });
